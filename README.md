@@ -1,8 +1,6 @@
 # Socket-Programming-Project
 Socket Programming Project
 
-# Assignment README
-
 **Name:** Raj Vora  
 **Student ID:** 9094527849  
 
@@ -10,7 +8,7 @@ Socket Programming Project
 
 ---
 
-## Assignment Details
+## Details
 
 ### Code Files
 
